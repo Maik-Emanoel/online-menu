@@ -18,4 +18,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto é um cardápio online de uma cafeteria. <br>
 
-Obs: Projeto construído a partir da área de desafios do Programa Discover da [Rocketseat](https://rocketseat.com.br).
+Obs: Projeto construído a partir da 3° edição do evento Maratona Explorer promovido pela [Rocketseat](https://rocketseat.com.br)
